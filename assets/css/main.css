@@ -34,6 +34,12 @@ body {
 .buttonsContainer {
     text-align: center;
 }
+.buttonsContainer h3 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: capitalize;
+}
 .buttonsContainer button {
     width: 120px;
     height: 50px;
