@@ -47,15 +47,15 @@ body {
     font-size: 18px;
 }
 
-.buttonsContainer button:nth-child(1) {
+.buttonsContainer button:nth-child(2) {
     background-color: red;
     border: none;
 }
-.buttonsContainer button:nth-child(2) {
+.buttonsContainer button:nth-child(3) {
     background-color: blue;
     border: none;
 }
-.buttonsContainer button:nth-child(3) {
+.buttonsContainer button:nth-child(4) {
     background-color: green;
     border: none;
 }
