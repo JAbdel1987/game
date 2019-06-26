@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+.score {
+    padding: 25px 0 25px 0;
+}
+.title h3 {
+    color: aliceblue;
+    text-align: right;
+    padding: 0 25px 0 0;
+    text-transform: uppercase;
+}
+.score .item {
+    color: aliceblue;
+    text-align: right;
+    padding: 0 25px 0 0;
+}
+.score .item > span {
+    color: antiquewhite;
+    font-size: 18px;
+}
+.restart {
+    text-align: right;
+    padding: 0 25px 0 0;
+}
+.restart button {
+    width: 100px;
+    height: 40px;
+}
+.result h3 {
+    color: aliceblue;
+}
+
+.buttonsContainer {
+    text-align: center;
+}
+.buttonsContainer button {
+    width: 120px;
+    height: 50px;
+    color: white;
+    font-size: 18px;
+}
+
+.buttonsContainer button:nth-child(1) {
+    background-color: red;
+    border: none;
+}
+.buttonsContainer button:nth-child(2) {
+    background-color: blue;
+    border: none;
+}
+.buttonsContainer button:nth-child(3) {
+    background-color: green;
+    border: none;
+}
+
